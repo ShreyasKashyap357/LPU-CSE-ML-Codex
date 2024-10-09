@@ -1,13 +1,5 @@
 # LPU-CSE-ML-Codex
 
-<style>
-svg {
-    width: 100%;
-    max-width: 100%;
-    height: auto;
-}
-</style>
-
 
 ## LPU BTech (CSE) Notes Repository 📚✨
 ![LPU BTech Banner](images/banner.svg)
