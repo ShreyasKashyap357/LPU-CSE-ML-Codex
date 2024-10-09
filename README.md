@@ -21,10 +21,10 @@ This repository is meticulously organized semester-wise, with each course catego
 
 ## 🔗 Table of Contents
 
-- [About the Repository](#rocket-about-the-repository)
-- [Table of Contents](#table-of-contents)
-- [Course Overview](#course-overview)
-- [Semester Breakdown](#semester-breakdown)
+- [About the Repository](#-about-the-repository)
+- [Table of Contents](#-table-of-contents)
+- [Course Overview](#-course-overview)
+- [Semester Breakdown](#-semester-breakdown)
   - [Semester 1](#semester-1)
   - [Semester 2](#semester-2)
   - [Semester 3](#semester-3)
@@ -34,15 +34,15 @@ This repository is meticulously organized semester-wise, with each course catego
   - [Semester 7](#semester-7)
   - [Semester 8](#semester-8)
 - [SwiftSolve: An Interactive Question Solving Platform](#swiftsolve-an-interactive-question-solving-platform)
-- [Core Courses and Specializations](#core-courses-and-specializations)
-- [Capstone Projects](#capstone-projects)
+- [Core Courses and Specializations](#-core-courses-and-specializations)
+- [Capstone Projects](#-capstone-projects)
 - [Getting Started](#getting-started)
 - [Progress Tracker](#progress-tracker)
 - [Interactive Graphs and Visualizations](#interactive-graphs-and-visualizations)
 - [FAQs](#faqs)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
 
 ## 📘 Course Overview
 This repository encompasses notes and resources from various courses that constitute the BTech (CSE) program, including:
