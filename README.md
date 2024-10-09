@@ -332,6 +332,23 @@ git commit -m "Added notes for CSE205"
 6. Submit a Pull Request: Explain the changes and why they improve the repository and why the pull request must be merged.
 7. Review Process: Your contribution will be reviewed, and feedback may be provided.
 
+## 🤔 Understanding Changes with Git Blame
+
+To see who made changes to specific lines of code in this project, you can use the `git blame` command. This command will show you the last commit that modified each line of a file, along with the author's information.
+
+### How to Use `git blame`
+
+1. Open your terminal.
+2. Navigate to the repository directory.
+3. Run the following command:
+
+   ```
+   git blame path/to/your/file.txt
+   ```
+
+- Summary
+  ` In summary, "blame" in a README refers to the Git command that helps users track changes in files, providing valuable insights into the project's history. It can be a helpful tool for contributors to understand the context of changes and collaborate more effectively. 
+
 📄 License
 This repository is licensed under the [GNU GPLv3.0](https://www.gnu.org/licenses/) License. You are free to use, modify, and distribute the materials with proper attribution.
 
