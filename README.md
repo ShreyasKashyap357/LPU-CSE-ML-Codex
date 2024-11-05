@@ -7,7 +7,7 @@
 
 This repository is a comprehensive collection of notes, prepared by Shreyas Kashyap, a BTech (Computer Science & Engineering) student with a Minor in Artificial Intelligence and Machine Learning at Lovely Professional University (LPU). It includes course materials, lab exercises, assignments, and project documentation, systematically organized for easy navigation and in-depth study.
 
-# 🚀 About the Repository
+# 🚀 About the Repository 🌟
 
 This repository is meticulously organized semester-wise, with each course categorized to enhance your learning experience:
 
@@ -17,7 +17,7 @@ This repository is meticulously organized semester-wise, with each course catego
 - Aptitude and Logical Reasoning: Materials crucial for competitive exams and placement preparations.
 - Projects: Documentation and code for capstone projects and other practical assignments.
 
-# 🔗 Table of Contents
+# 🔗 Table of Contents 📑
 
 - [Welcome Note](#-welcome-to-the-lpu-btech-cse-notes-repository)
 - [About the Repository](#-about-the-repository)
@@ -33,7 +33,8 @@ This repository is meticulously organized semester-wise, with each course catego
   - [Semester 7](#semester-7)
   - [Semester 8](#semester-8)
 - [SwiftSolve: An Interactive Question Solving Platform](#swiftsolve-an-interactive-question-solving-platform)
-- [Core Courses and Specializations](#-core-courses-and-specializations)
+- [Core Courses](#-core-courses)
+- [Specialization Courses](#specialization-courses)
 - [Capstone Projects](#-capstone-projects)
 - [Getting Started](#getting-started)
 - [Progress Tracker](#progress-tracker)
@@ -43,7 +44,7 @@ This repository is meticulously organized semester-wise, with each course catego
 - [License](#-license)
 - [Contact](#-contact)
 
-## 📘 Course Overview
+## 📘 Course Overview 🗂️
 This repository encompasses notes and resources from various courses that constitute the BTech (CSE) program, including:
 
 - Core Computer Science Courses: Fundamental courses covering programming, data structures, algorithms, computer architecture, operating systems, and networks.
@@ -52,6 +53,11 @@ This repository encompasses notes and resources from various courses that consti
 - Soft Skills & Communication: Courses designed to improve verbal ability, analytical skills, and professional communication.
 - Aptitude and Logical Reasoning: Essential materials for aptitude tests, logical reasoning, and quantitative analysis, aiding in competitive exams and placements.
 - Projects: Detailed documentation and code repositories for capstone projects, internships, and other practical engagements.
+
+# Visual Overview of Course Categories 🎨
+|||||
+|---|---|---|---|
+|Core Courses 🖥️|Minor in AI/ML 🤖|Electives 🔧|Projects 💼|
 
 ## 🌳 Semester Breakdown
 
@@ -125,9 +131,9 @@ This repository encompasses notes and resources from various courses that consti
         └── Open Minor Elective
 ```
 
-### Semester 1 Courses
-- CSE111 - Orientation to Computing-I: Introduction to computing concepts, basic programming constructs, and problem-solving techniques.
-- CSE326 - Internet Programming Laboratory: Practical exposure to web technologies, HTML, CSS, and introductory JavaScript.
+### [Semester 1 Courses]()
+- [CSE111]() - Orientation to Computing-I: Introduction to computing concepts, basic programming constructs, and problem-solving techniques.
+- [CSE326]() - Internet Programming Laboratory: Practical exposure to web technologies, HTML, CSS, and introductory JavaScript.
 - INT108 - Python Programming: Fundamentals of Python programming, data types, control structures, functions, and modules.
 - MEC135 - Basics of Mechanical Engineering: Overview of mechanical engineering principles, thermodynamics, and material science.
 - MTH174 - Engineering Mathematics: Mathematical concepts including calculus, linear algebra, and differential equations.
@@ -238,7 +244,7 @@ To get started with this repository:
 Clone the Repository:
 
 ```
-git clone https://github.com/yourusername/LPU-BTech-CSE-Notes.git
+git clone https://github.com/ShreyasKashyap357/LPU-BTech-CSE-Notes.git
 ```
 Navigate the Notes: Browse the folder structure semester-wise.
 
@@ -358,4 +364,4 @@ For any queries or suggestions, feel free to reach out:
 [Email ID](shreyas.venur@gmail.com)
 [[LinkedIn Profile](https://www.linkedin.com/in/shreyaskashyap2004/)]
 [[GitHub Profile](https://github.com/ShreyasKashyap357/)]
-[GitLan Profile]
+[GitLab Profile]()
