@@ -38,7 +38,7 @@ This repository is meticulously organized semester-wise, with each course catego
 - [Capstone Projects](#-capstone-projects)
 - [Getting Started](#getting-started)
 - [Progress Tracker](#progress-tracker)
-- [Interactive Graphs and Visualizations](#interactive-graphs-and-visualizations)
+<!-- [Interactive Graphs and Visualizations](#interactive-graphs-and-visualizations) -->
 - [FAQs](#faqs)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -55,9 +55,9 @@ This repository encompasses notes and resources from various courses that consti
 - Projects: Detailed documentation and code repositories for capstone projects, internships, and other practical engagements.
 
 # Visual Overview of Course Categories 🎨
-|||||
 |---|---|---|---|
 |Core Courses 🖥️|Minor in AI/ML 🤖|Electives 🔧|Projects 💼|
+||||
 
 ## 🌳 Semester Breakdown
 
@@ -134,111 +134,114 @@ This repository encompasses notes and resources from various courses that consti
 ### [Semester 1 Courses]()
 - [CSE111]() - Orientation to Computing-I: Introduction to computing concepts, basic programming constructs, and problem-solving techniques.
 - [CSE326]() - Internet Programming Laboratory: Practical exposure to web technologies, HTML, CSS, and introductory JavaScript.
-- INT108 - Python Programming: Fundamentals of Python programming, data types, control structures, functions, and modules.
-- MEC135 - Basics of Mechanical Engineering: Overview of mechanical engineering principles, thermodynamics, and material science.
-- MTH174 - Engineering Mathematics: Mathematical concepts including calculus, linear algebra, and differential equations.
-- PES318 - Soft Skills-I: Development of communication skills, presentation techniques, and teamwork.
-- PHY110 - Engineering Physics: Fundamental physics concepts relevant to engineering applications.
+- INT108() - Python Programming: Fundamentals of Python programming, data types, control structures, functions, and modules.
+- MEC135() - Basics of Mechanical Engineering: Overview of mechanical engineering principles, thermodynamics, and material science.
+- MTH174() - Engineering Mathematics: Mathematical concepts including calculus, linear algebra, and differential equations.
+- PES318() - Soft Skills-I: Development of communication skills, presentation techniques, and teamwork.
+- PHY110() - Engineering Physics: Fundamental physics concepts relevant to engineering applications.
 ### Semester 2 Courses
-- CHE110 - Environmental Studies: Understanding environmental issues, sustainable development, and ecological balance.
-- CSE101 - Computer Programming: In-depth study of programming concepts using languages like C/C++.
-- CSE121 - Orientation to Computing-II: Advanced computing concepts, introduction to data structures.
-- CSE320 - Software Engineering: Principles of software development, software life cycle models, and project management.
-- ECE249 - Basic Electrical and Electronics Engineering: Fundamentals of electrical circuits, electronic devices, and applications.
-- ECE279 - Basic Electrical and Electronics Laboratory: Hands-on experiments with electrical circuits and electronic components.
-- INT306 - Database Management Systems: Concepts of databases, SQL, normalization, and transaction management.
-- MTH401 - Discrete Mathematics: Logic, set theory, combinatorics, graph theory, and algorithms.
-- PEL130 - Advanced Communication Skills-I: Enhancement of verbal communication, listening skills, and language proficiency.
+- CHE110() - Environmental Studies: Understanding environmental issues, sustainable development, and ecological balance.
+- CSE101() - Computer Programming: In-depth study of programming concepts using languages like C/C++.
+- CSE121() - Orientation to Computing-II: Advanced computing concepts, introduction to data structures.
+- CSE320() - Software Engineering: Principles of software development, software life cycle models, and project management.
+- ECE249() - Basic Electrical and Electronics Engineering: Fundamentals of electrical circuits, electronic devices, and applications.
+- ECE279() - Basic Electrical and Electronics Laboratory: Hands-on experiments with electrical circuits and electronic components.
+- INT306() - Database Management Systems: Concepts of databases, SQL, normalization, and transaction management.
+- MTH401() - Discrete Mathematics: Logic, set theory, combinatorics, graph theory, and algorithms.
+- PEL130() - Advanced Communication Skills-I: Enhancement of verbal communication, listening skills, and language proficiency.
 ### Semester 3 Courses
-- CSE202 - Object Oriented Programming: Concepts of OOP using languages like Java or C++, including classes, objects, inheritance, and polymorphism.
-- CSE205 - Data Structures and Algorithms: Study of data structures like arrays, linked lists, trees, graphs, and algorithm design.
-- CSE211 - Computer Organization and Design: Computer architecture, memory hierarchy, instruction sets, and CPU design.
-- CSE306 - Computer Networks: OSI model, network protocols, routing, and network security basics.
-CSE307 - Internetworking Essentials: Networking technologies, TCP/IP stack, and practical networking skills.
-CSE316 - Operating Systems: Concepts of operating systems, process management, memory management, and file systems.
-CSE325 - Operating Systems Laboratory: Practical implementation of OS concepts, shell scripting, and system programming.
-GEN231 - Community Development Project: Participation in community service projects to develop social responsibility.
-PEL136 - Advanced Communication Skills-II: Further development of communication skills, focusing on professional contexts.
-- Semester 4 Courses
-CSE310 - Programming in Java: Advanced Java programming concepts, GUI development, and network programming.
-CSE408 - Design and Analysis of Algorithms: Algorithm complexity, advanced sorting, graph algorithms, and optimization techniques.
-INT254 - Fundamentals of Machine Learning: Introduction to machine learning concepts, supervised and unsupervised learning.
-INT354 - Machine Learning-I: In-depth study of machine learning algorithms, model evaluation, and implementation.
-INT404 - Artificial Intelligence: AI principles, problem-solving, knowledge representation, and reasoning.
-PEA307 - Advanced Analytical Skills-I: Development of analytical and quantitative skills, critical for problem-solving.
-- Semester 5 Courses
-ACC304 - Cost Accounting: Principles of cost accounting, budgeting, and financial management.
-CSE322 - Formal Languages and Automata Theory: Study of automata, formal languages, grammars, and computational theory.
-INT344 - Natural Language Processing: Techniques for processing natural language data, text analytics, and language models.
-INT423 - Machine Learning-II: Advanced machine learning topics, including deep learning and neural networks.
-PEA308 - Advanced Analytical Skills-II: Enhancement of analytical abilities with complex problem-solving techniques.
-PEV113 - Verbal Ability: Focused training on verbal reasoning, comprehension, and communication skills.
-CSE443 - Seminar on Summer Training: Presentation and discussion of experiences and learnings from summer internships.
-- Semester 6 Courses
-CSE332 - Industry Ethics and Legal Issues: Understanding professional ethics, legal considerations in technology.
-CSE393 - Online Academic Course: Elective course completed through an approved online platform.
-INT345 - Computer Vision: Study of image processing, feature extraction, and computer vision algorithms.
-INT221 - MVC Programming: Model-View-Controller architecture, web application development frameworks.
-INT312 - Big Data Fundamentals: Concepts of big data analytics, Hadoop, Spark, and data processing techniques.
-PEV114 - Advanced Verbal Ability: Advanced training in verbal communication, critical for interviews and professional settings.
-- Semester 7 Courses
-CSE447 - Industry Co-op Project-I: Full-term industrial internship providing practical industry experience.
-Coursework Option:
+- CSE202() - Object Oriented Programming: Concepts of OOP using languages like Java or C++, including classes, objects, inheritance, and polymorphism.
+- CSE205() - Data Structures and Algorithms: Study of data structures like arrays, linked lists, trees, graphs, and algorithm design.
+- CSE211() - Computer Organization and Design: Computer architecture, memory hierarchy, instruction sets, and CPU design.
+- CSE306() - Computer Networks: OSI model, network protocols, routing, and network security basics.
+- CSE307 - Internetworking Essentials: Networking technologies, TCP/IP stack, and practical networking skills.
+- CSE316 - Operating Systems: Concepts of operating systems, process management, memory management, and file systems.
+- CSE325 - Operating Systems Laboratory: Practical implementation of OS concepts, shell scripting, and system programming.
+- GEN231 - Community Development Project: Participation in community service projects to develop social responsibility.
+- PEL136 - Advanced Communication Skills-II: Further development of communication skills, focusing on professional contexts.
+### Semester 4 Courses
+- CSE310 - Programming in Java: Advanced Java programming concepts, GUI development, and network programming.
+- CSE408 - Design and Analysis of Algorithms: Algorithm complexity, advanced sorting, graph algorithms, and optimization techniques.
+- INT254 - Fundamentals of Machine Learning: Introduction to machine learning concepts, supervised and unsupervised learning.
+- INT354 - Machine Learning-I: In-depth study of machine learning algorithms, model evaluation, and implementation.
+- INT404 - Artificial Intelligence: AI principles, problem-solving, knowledge representation, and reasoning.
+- PEA307 - Advanced Analytical Skills-I: Development of analytical and quantitative skills, critical for problem-solving.
+### Semester 5 Courses
+- ACC304 - Cost Accounting: Principles of cost accounting, budgeting, and financial management.
+- CSE322 - Formal Languages and Automata Theory: Study of automata, formal languages, grammars, and computational theory.
+- INT344 - Natural Language Processing: Techniques for processing natural language data, text analytics, and language models.
+- INT423 - Machine Learning-II: Advanced machine learning topics, including deep learning and neural networks.
+- PEA308 - Advanced Analytical Skills-II: Enhancement of analytical abilities with complex problem-solving techniques.
+- PEV113 - Verbal Ability: Focused training on verbal reasoning, comprehension, and communication skills.
+- CSE443 - Seminar on Summer Training: Presentation and discussion of experiences and learnings from summer internships.
+### Semester 6 Courses
+- CSE332 - Industry Ethics and Legal Issues: Understanding professional ethics, legal considerations in technology.
+- CSE393 - Online Academic Course: Elective course completed through an approved online platform.
+- INT345 - Computer Vision: Study of image processing, feature extraction, and computer vision algorithms.
+- INT221 - MVC Programming: Model-View-Controller architecture, web application development frameworks.
+- INT312 - Big Data Fundamentals: Concepts of big data analytics, Hadoop, Spark, and data processing techniques.
+- PEV114 - Advanced Verbal Ability: Advanced training in verbal communication, critical for interviews and professional settings.
+### Semester 7 Courses
+- CSE447 - Industry Co-op Project-I: Full-term industrial internship providing practical industry experience.
+- Coursework Option:
 
-CSE406 - Advanced Java Programming: In-depth Java topics, enterprise applications, and frameworks like Spring.
-INT422 - Deep Learning: Neural networks, convolutional networks, recurrent networks, and deep learning applications.
-CSE339 - Capstone Project-I: Beginning of the major project, involving planning and initial development.
-Open Minor Elective: Elective course from an open minor to broaden knowledge.
-- Semester 8 Courses
-CSE448 - Industry Co-op Project-II: Continuation of the industrial internship, culminating the industry experience.
-Coursework Option:
+- CSE406 - Advanced Java Programming: In-depth Java topics, enterprise applications, and frameworks like Spring.
+- INT422 - Deep Learning: Neural networks, convolutional networks, recurrent networks, and deep learning applications.
+- CSE339 - Capstone Project-I: Beginning of the major project, involving planning and initial development.
+- Open Minor Elective: Elective course from an open minor to broaden knowledge.
+### Semester 8 Courses
+- CSE448 - Industry Co-op Project-II: Continuation of the industrial internship, culminating the industry experience.
+- Coursework Option:
 
-CSE403 - Network Security and Cryptography: Study of security principles, cryptographic algorithms, and network security protocols.
-CSE439 - Capstone Project-II: Completion of the capstone project, finalizing development and presenting results.
-CSE435 - Comprehensive Seminar: Presentation and defense of the capstone project work.
-Open Minor Elective: Additional elective to complement the degree.
+- CSE403 - Network Security and Cryptography: Study of security principles, cryptographic algorithms, and network security protocols.
+- CSE439 - Capstone Project-II: Completion of the capstone project, finalizing development and presenting results.
+- CSE435 - Comprehensive Seminar: Presentation and defense of the capstone project work.
+- Open Minor Elective: Additional elective to complement the degree.
 
-🔑 Core Courses and Specializations
-This section encompasses all the core courses and specializations, including the minor in Artificial Intelligence and Machine Learning, which are critical for the CSE program:
-
-Programming Fundamentals: CSE101, INT108, CSE202, CSE310
-Data Structures and Algorithms: CSE205, CSE408
-Computer Architecture: CSE211
-Operating Systems: CSE316, CSE325
-Database Systems: INT306
-Computer Networks: CSE306, CSE307
-Software Engineering: CSE320
-Artificial Intelligence and Machine Learning: INT254, INT354, INT404, INT423, INT344, INT345, INT422
-Theory of Computation: CSE322
-Electives in Emerging Areas: INT221, INT312, INT345, CSE403, INT221, INT422
-
-🏆 Capstone Projects
-The capstone projects are significant components of the curriculum, allowing students to apply their knowledge to real-world problems:
-
-Capstone Project-I (CSE339): Initial phase involving project proposal, literature review, and preliminary development.
-Capstone Project-II (CSE439): Final phase focusing on implementation, testing, documentation, and presentation.
-
-🚀 SwiftSolve: An Interactive Question Solving Platform
+# 🚀 SwiftSolve: An Interactive Question Solving Platform
 SwiftSolve is an interactive web-based platform designed to enhance your problem-solving skills through a structured approach to answering questions. Here's what it offers:
 
-Question Repository: Users can upload questions categorized by subject and difficulty level. This creates a vast pool of questions that anyone can use to practice.
+- Question Repository: Users can upload questions categorized by subject and difficulty level. This creates a vast pool of questions that anyone can use to practice.
 
-Randomized Question Order: Each test presents questions in a random order, ensuring a unique experience each time and minimizing memorization.
+- Randomized Question Order: Each test presents questions in a random order, ensuring a unique experience each time and minimizing memorization.
 
-Timed Tests: Each question comes with a time limit, promoting efficient problem-solving and time management skills. The entire test must also be completed within a specified duration.
+- Timed Tests: Each question comes with a time limit, promoting efficient problem-solving and time management skills. The entire test must also be completed within a specified duration.
 
-Difficulty Levels: Questions are sorted by difficulty, allowing users to choose tests that match their current skill level, making it easier to progress and improve.
+- Difficulty Levels: Questions are sorted by difficulty, allowing users to choose tests that match their current skill level, making it easier to progress and improve.
 
-User-Friendly Interface: SwiftSolve provides an intuitive user interface to navigate the question repository, upload new questions, and take tests seamlessly.
+- User-Friendly Interface: SwiftSolve provides an intuitive user interface to navigate the question repository, upload new questions, and take tests seamlessly.
 
-🎯 How SwiftSolve Can Benefit You
-Improve Problem-Solving Skills: Regular practice with a variety of questions helps in enhancing critical thinking and analytical skills, which are crucial for success in technical fields.
+## 🎯 How SwiftSolve Can Benefit You
+- Improve Problem-Solving Skills: Regular practice with a variety of questions helps in enhancing critical thinking and analytical skills, which are crucial for success in technical fields.
 
-Prepare for Competitive Exams: By simulating real test conditions with timed questions, you can prepare effectively for competitive exams and assessments.
+- Prepare for Competitive Exams: By simulating real test conditions with timed questions, you can prepare effectively for competitive exams and assessments.
 
-Collaborative Learning: By allowing users to upload and share questions, SwiftSolve fosters a collaborative environment for students to learn from each other.
+- Collaborative Learning: By allowing users to upload and share questions, SwiftSolve fosters a collaborative environment for students to learn from each other.
 
-🏁 Getting Started
+## Access SwiftSolve:
+- Visit SwiftSolve to start practicing your problem-solving skills.
+
+# 🔑 Core Courses and Specializations
+This section encompasses all the core courses and specializations, including the minor in Artificial Intelligence and Machine Learning, which are critical for the CSE program:
+
+- Programming Fundamentals: CSE101, INT108, CSE202, CSE310
+- Data Structures and Algorithms: CSE205, CSE408
+- Computer Architecture: CSE211
+- Operating Systems: CSE316, CSE325
+- Database Systems: INT306
+- Computer Networks: CSE306, CSE307
+- Software Engineering: CSE320
+- Artificial Intelligence and Machine Learning: INT254, INT354, INT404, INT423, INT344, INT345, INT422
+- Theory of Computation: CSE322
+- Electives in Emerging Areas: INT221, INT312, INT345, CSE403, INT221, INT422
+
+# 🏆 Capstone Projects
+The capstone projects are significant components of the curriculum, allowing students to apply their knowledge to real-world problems:
+
+- Capstone Project-I (CSE339): Initial phase involving project proposal, literature review, and preliminary development.
+- Capstone Project-II (CSE439): Final phase focusing on implementation, testing, documentation, and presentation.
+
+# 🏁 Getting Started
 To get started with this repository:
 
 Clone the Repository:
@@ -250,16 +253,14 @@ Navigate the Notes: Browse the folder structure semester-wise.
 
 Prerequisites: For using some of the materials (e.g., lab work in Python or Java), ensure you have a programming environment set up (like Jupyter notebooks, IDEs for Java, etc.).
 
-Access SwiftSolve: Visit SwiftSolve to start practicing your problem-solving skills.
-
-📚 How to Use
+# 📚 How to Use
 1. Navigate by Semester: Each semester folder contains subfolders for each course, including lecture notes, lab assignments, tutorials, and past exam papers.
 2. Course Materials: Within each course folder, materials are organized into lectures, labs, assignments, and additional resources.
 3. Projects and Assignments: Access project documentation and source code in the 'Projects' directory for hands-on learning.
 4. Search Functionality: Use the repository's search feature to find specific topics or keywords.
 5. Contributions: Check the 'Contributing' section to understand how to add your notes or improvements.
 
-## ❓ Frequently Asked Questions (FAQs)
+# ❓ Frequently Asked Questions (FAQs)
 
 ### 1. What is the LPU BTech (CSE) Notes Repository?
 The LPU BTech (CSE) Notes Repository is a curated collection of notes, assignments, lab work, and project documentation aimed at helping BTech students in their studies, particularly in the Computer Science and Engineering program with a Minor in Artificial Intelligence and Machine Learning.
@@ -322,7 +323,7 @@ If you have additional questions or suggestions for the FAQs, feel free to reach
 Please report any errors or inaccuracies you find by opening an issue in the repository, so we can make the necessary corrections.
 
 
-🤝 Contributing
+# 🤝 Contributing
 Contributions are highly encouraged! If you have additional notes or improvements, here’s how you can contribute:
 
 1. Fork the Repository: Create a personal copy of the repository. Click the fork button at the top of the repository page.
@@ -355,10 +356,10 @@ To see who made changes to specific lines of code in this project, you can use t
 - Summary
   ` In summary, "blame" in a README refers to the Git command that helps users track changes in files, providing valuable insights into the project's history. It can be a helpful tool for contributors to understand the context of changes and collaborate more effectively. 
 
-📄 License
+# 📄 License
 This repository is licensed under the [GNU GPLv3.0](https://www.gnu.org/licenses/) License. You are free to use, modify, and distribute the materials with proper attribution.
 
-📬 Contact
+# 📬 Contact
 For any queries or suggestions, feel free to reach out:
 
 [Email ID](shreyas.venur@gmail.com)
