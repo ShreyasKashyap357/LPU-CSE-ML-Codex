@@ -362,7 +362,7 @@ This repository is licensed under the [GNU GPLv3.0](https://www.gnu.org/licenses
 # 📬 Contact
 For any queries or suggestions, feel free to reach out:
 
-[Email ID](shreyas.venur@gmail.com)
-[[LinkedIn Profile](https://www.linkedin.com/in/shreyaskashyap2004/)]
-[[GitHub Profile](https://github.com/ShreyasKashyap357/)]
-[GitLab Profile]()
+- [Email ID](shreyas.venur@gmail.com)
+- [[LinkedIn Profile](https://www.linkedin.com/in/shreyaskashyap2004/)]
+- [[GitHub Profile](https://github.com/ShreyasKashyap357/)]
+- [GitLab Profile]()
